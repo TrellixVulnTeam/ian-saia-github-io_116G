@@ -1,0 +1,29 @@
+header {
+  background-color: #336699; }
+
+main {
+  background-color: #336699; }
+
+.bg-black {
+  background-color: rgba(0, 0, 0, 0.295); }
+
+.links-nav-bar {
+  padding-left: 10px; }
+
+.carousel {
+  width: 200px;
+  height: 400px; }
+
+.main-color {
+  background-color: #2c2c2c; }
+
+main {
+  font-family: 'Libre Bodoni', serif; }
+
+.libro-descripcion {
+  font-family: 'Libre Bodoni', serif;
+  color: #ffffff; }
+
+.titulo {
+  font-family: 'Koulen', cursive;
+  color: #ffffff; }
